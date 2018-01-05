@@ -1,16 +1,16 @@
-package com.thread.lesson2.c2_1_2;
+package com.thread.lesson2.c2_1.c2_1_3;
 /**
- * Created by chenchenghao on 2018/1/3.
+ * Created by chenchenghao on 2018/1/4.
  */
 public class HasSelfPrivateNum {
-    private int num =0;//in multithreding maybe dirty read add synchronize will fix the problem
+    private int num =0;
 
     synchronized  public void addI(String username){
         try{
             if(username.equals("a")){
                 num=100;
                 System.out.println("a set over");
-                Thread.sleep(1500);
+                Thread.sleep(2000);
             }else{
                 num=200;
                 System.out.println("b set over");

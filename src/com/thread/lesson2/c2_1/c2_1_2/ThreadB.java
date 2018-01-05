@@ -1,11 +1,10 @@
-package com.thread.lesson2.c2_1_1;
-
+package com.thread.lesson2.c2_1.c2_1_2;
 /**
  * Created by chenchenghao on 2018/1/3.
  */
-public class ThreadA extends  Thread {
+public class ThreadB extends Thread{
     private HasSelfPrivateNum numRef;
-    public ThreadA(HasSelfPrivateNum numRef){
+    public ThreadB(HasSelfPrivateNum numRef){
         super();
         this.numRef= numRef;
     }
@@ -13,6 +12,6 @@ public class ThreadA extends  Thread {
     @Override
     public void run() {
         super.run();
-        numRef.addI("a");
+        numRef.addI("b");
     }
 }

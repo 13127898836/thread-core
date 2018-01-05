@@ -1,4 +1,4 @@
-package com.thread.lesson2.c2_1_1;
+package com.thread.lesson2.c2_1.c2_1_1;
 
 /**
  * Created by chenchenghao on 2018/1/3.
