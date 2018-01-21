@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/thread/lesson2/c2_2/c_2_3_15/Run.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding>
                 <element signature="e#406#407#0" expanded="true" />
                 <element signature="e#454#455#0" expanded="true" />
@@ -174,16 +174,6 @@
               <option name="myItemId" value="thread-core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -238,6 +228,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -823,7 +823,7 @@
       <workItem from="1516084085064" duration="22478000" />
       <workItem from="1516442294999" duration="5697000" />
       <workItem from="1516459850661" duration="109000" />
-      <workItem from="1516501874004" duration="3016000" />
+      <workItem from="1516501874004" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="初始化提交">
       <created>1514985330459</created>
@@ -906,7 +906,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82327000" />
+    <option name="totallyTimeSpent" value="82511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1272,7 +1272,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/thread/lesson2/c2_2/c_2_3_15/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
           <folding>
             <element signature="e#406#407#0" expanded="true" />
             <element signature="e#454#455#0" expanded="true" />
