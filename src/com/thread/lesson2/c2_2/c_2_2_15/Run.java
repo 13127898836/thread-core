@@ -1,4 +1,4 @@
-package com.thread.lesson2.c2_2.c_2_3_15;
+package com.thread.lesson2.c2_2.c_2_2_15;
 
 /**
  * Created by 459105408@qq.com
