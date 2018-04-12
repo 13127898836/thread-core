@@ -1,6 +1,7 @@
-package com.thread.lesson3.c_3_1.c_3_1_7;
+package com.thread.lesson3.c_3_1.c_3_1_8;
 
 /**
+ * wait设置了时间可以在时间范围内被叫醒
  * Created by cch
  * 2018-04-10 16:48.
  */

@@ -1,4 +1,4 @@
-package com.thread.lesson3.c_3_1.c_3_1_7;
+package com.thread.lesson3.c_3_1.c_3_1_8;
 
 /**
  * Created by cch
